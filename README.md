@@ -30,7 +30,7 @@ The application will be available on `http://localhost:8080`.
        <!-- ... -->
        <plugin>
          <groupId>org.apache.maven.plugins</groupId>
-         <artifactId>maven-dependency-plugin</artifactId>
+         <artifactId>maven-dependency-plugin</artifactId>   ##  You give the name that name is show in the local host.
          <version>2.3</version>
          <executions>
            <execution>
@@ -52,3 +52,5 @@ The application will be available on `http://localhost:8080`.
      </plugins>
    </build>
    ```
+##### AUTHOR
+{Kuldeep Singh}
