@@ -52,5 +52,7 @@ The application will be available on `http://localhost:8080`.
      </plugins>
    </build>
    ```
+### Command:
+WAR/EAR files=>   **/target/*.war
 ##### AUTHOR
 {Kuldeep Singh}
